@@ -1,8 +1,5 @@
 package com.company.lists.vectors;
 
-import com.company.lists.arraylist.Employee;
-
-import java.util.ArrayList;
 import java.util.List;
 import java.util.Vector;
 
